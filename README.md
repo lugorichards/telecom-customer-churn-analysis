@@ -105,6 +105,16 @@ The report contains two analytical pages:
 
 The dashboard supports interactive filtering and comparison across customer segments.
 
+### Dashboard Preview
+
+**1. Churn Analysis**
+
+![Churn Analysis Dashboard](POWERBI/01_Churn_Overview.png)
+
+**2. Customer Insights**
+
+![Customer Insights Dashboard](POWERBI/02_Customer_Insights.png)
+
 ## Business Recommendations
 
 Based on the observed patterns, the following initiatives are worth evaluating:
